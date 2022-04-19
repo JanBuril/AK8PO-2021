@@ -1,5 +1,5 @@
 # AK8PO-2021
-Projekt propředmět pokročilé programování
+Projekt pro předmět pokročilé programování
 
 Časový plán 10 až 14 odrážek po 3 až 4 hodinách
 
