@@ -6,9 +6,9 @@ Projekt pro předmět pokročilé programování
 - analýza požadavků 4h
 - volba technologijí 1h
 - založení nového projektu plus instalace zvolených technologijí 2-4h    
+- Tvorba BDM a následně fyzické iterpretace, Integrace s databází 6h (SQL)
 - psaní hlavní části programu 12h - 18h (C# coding)
 - psaní vedlejší části programu 8h (nice to have)
-- Tvorba BDM následně fyzické iterpretace, Integrace s databází 6h (SQL)
 - Tvorba a imlementace grafiky 8h (nice to have)
 - debaging / kontrola kodu cca 2h
 - testování cca 1h
